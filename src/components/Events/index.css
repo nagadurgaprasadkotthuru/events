@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+}
+
+.content-container {
+  display: flex;
+  width: 100%;
+}
+
+.heading-events-container {
+  width: 60%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #475569;
+}
+
+.main-heading {
+  color: #ffffff;
+  margin-top: 0px;
+  font-family: 'Roboto';
+}
+
+.events-container {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.registration-details-container {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
